@@ -1,3 +1,5 @@
+| ⚠️ The `master` branch has been discontinued. For the latest Proton Mail codebase please check the `main` branch ⚠️ |
+| --- |
 
 # iOS-mail
 
